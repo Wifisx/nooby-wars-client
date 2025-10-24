@@ -1,0 +1,18 @@
+{
+  "name": "Nooby Wars",
+  "displayName": "Nooby Wars",
+  "version": "1.0",
+  "installPath": "%LOCALAPPDATA%/Nooby Wars",
+  "executable": "client.exe",
+  "args": "",
+  "files": [
+    {
+      "url": "bin/client.exe",
+      "localfile": "client.exe",
+      "packedhash": "",
+      "packedsize": 0,
+      "unpackedhash": "",
+      "unpackedsize": 0
+    }
+  ]
+}
