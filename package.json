@@ -1,4 +1,6 @@
 {
+  "name": "Nooby Wars",
+  "displayName": "Nooby Wars",
   "version": "15.11.c9d1cf",
   "files": [
     {
@@ -9,6 +11,7 @@
       "unpackedhash": "f1db14746c8b94513787e07010d22dee5e370850cdd14bce705c273ff65786dd",
       "unpackedsize": 9196
     },
+
     {
       "url": "3rdpartylicences/battleye-eula.txt.lzma",
       "localfile": "3rdpartylicences/battleye-eula.txt",
