@@ -12,3 +12,4 @@ bin/**/*.dll filter=lfs diff=lfs merge=lfs -text
 bin/*.pak filter=lfs diff=lfs merge=lfs -text
 bin/**/*.pak filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+Nooby[[:space:]]Wars.rar filter=lfs diff=lfs merge=lfs -text
