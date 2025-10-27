@@ -1,0 +1,36 @@
+# ============================================
+# Configuración para archivos binarios
+# Previene corrupción al subir a GitHub
+# ============================================
+
+# Archivos ejecutables (CRÍTICO)
+*.exe binary
+*.dll binary
+
+# Assets del juego
+*.dat binary
+*.spr binary
+*.pic binary
+*.otb binary
+
+# Otros binarios comunes
+*.zip binary
+*.rar binary
+*.7z binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+
+# Archivos de texto (asegurar LF en todos los sistemas)
+*.json text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.xml text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
